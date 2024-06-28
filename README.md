@@ -1,9 +1,11 @@
 <a><img src="banner.gif" alt="My Woahh Banner"></a>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=995&color=FF0000&center=true&multiline=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Arnav+Singh." alt="Typing SVG" /></a></h1>
 
-<h2 align="center">A tech tinkerer, who loves coding and discord.</h2>
+<h2 align="center">A tech tinkerer, who loves coding and discord.
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=affirmativeguy&label=Profile%20views&color=0e75b6&style=plastic&color=blueviolet" alt="affirmativeguy" /> </p>
+</h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=affirmativeguy&label=Profile%20views&color=0e75b6&style=flat" alt="affirmativeguy" /> </p>
+
 
 >
 
@@ -54,6 +56,7 @@
 &nbsp;<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
+
 
 
 
