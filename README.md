@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects(very basic) are available at [https://github.com/AffirmativeGuy](https://github.com/AffirmativeGuy).
 
-- 📫 How to reach me - **https://discord.gg/4pQ5TtRcft**
+- 📫 Reach me on - **[Discord](https://discord.gg/4pQ5TtRcft)**
 
 - 🌱 I’m currently learning **Python**.
 
