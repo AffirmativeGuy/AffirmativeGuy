@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=995&color=F7F7F7&center=true&multiline=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Arnav+Singh." alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=995&color=FF0000&center=true&multiline=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Arnav+Singh." alt="Typing SVG" /></a></h1>
 
 <h2 align="center">A tech tinkerer, who loves coding and discord.</h2>
 
