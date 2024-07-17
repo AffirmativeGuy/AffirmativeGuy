@@ -33,7 +33,7 @@
 <h3 align="left">Languages and Tools(I am tinkering with):</h3>
 <p align="left">
   <a href="https://discord.com/invite/WYXqMxnsqa">
-    <img src="https://skillicons.dev/icons?i=git,go,ps,py,ai,linux,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=git,go,ps,py,ai,linux,ubuntu,arch,windows" />
   </a>
 </p>
 
