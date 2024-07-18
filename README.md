@@ -19,6 +19,8 @@
 
 - 🌱 I’m currently learning **Python**.
 
+- 🥋 I'm in love with **Windows** and **Linux**.
+
 ### 🍜 My Discord Profile
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1064034452893863966)](https://discord.com/users/1064034452893863966)
