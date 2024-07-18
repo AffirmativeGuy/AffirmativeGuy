@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think I love football.**
 
-- 👨‍💻 All of my projects(very basic) are available at [https://github.com/AffirmativeGuy](https://github.com/AffirmativeGuy).
+- 👨‍💻 All of my projects(very basic) are available at my [Github profile](https://github.com/AffirmativeGuy).
 
 - 📫 Reach me on - **[Discord](https://discord.gg/4pQ5TtRcft)**
 
