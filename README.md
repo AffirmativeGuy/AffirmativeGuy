@@ -54,7 +54,7 @@
 </div>
 
 ### ❄️ Quote
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord&quote=To%20Be%20The%20Best%20You%20Have%20To%20Work%20Hard,%20But%20To%20Be%20The%20Worst%20You%20Don't.)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Quote](https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&quote=To%20Be%20The%20Best%20You%20Have%20To%20Work%20Hard,%20But%20To%20Be%20The%20Worst%20You%20Don't.&author=AffirmativeGuy)](https://youtu.be/dQw4w9WgXcQ?si=eoehQUYaFQwPM-Rh)
 
 ### ⚽ Zaa Banner
 <a><img src="banner.gif" alt="My Woahh Banner"></a>
