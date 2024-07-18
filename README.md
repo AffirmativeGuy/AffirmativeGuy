@@ -1,4 +1,3 @@
-<a><img src="banner.gif" alt="My Woahh Banner"></a>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=995&color=FF0000&center=true&multiline=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Arnav+Singh." alt="Typing SVG" /></a></h1>
 
 <h2 align="center">A tech tinkerer, who loves coding and discord.
@@ -35,7 +34,7 @@
 <h3 align="left">Languages and Tools I'm Tinkering With:</h3>
 <p align="left">
   <a href="https://discord.com/invite/WYXqMxnsqa">
-    <img src="https://skillicons.dev/icons?i=git,go,py,ai,ubuntu,arch" />
+    <img src="https://skillicons.dev/icons?i=git,go,py,vscode,arch,github&perline=3&theme=dark" />
   </a>
 </p>
 
@@ -59,8 +58,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
-
-
+### ⚽ Zaa Banner
+<a><img src="banner.gif" alt="My Woahh Banner"></a>
 
 
 
