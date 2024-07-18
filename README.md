@@ -53,10 +53,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=affirmativeguy&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
-### ❄️ Random Dev Quote
-&nbsp;<div align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
+### ❄️ Quote
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord&quote=To%20Be%20The%20Best%20You%20Have%20To%20Work%20Hard,%20But%20To%20Be%20The%20Worst%20You%20Don't.)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### ⚽ Zaa Banner
 <a><img src="banner.gif" alt="My Woahh Banner"></a>
