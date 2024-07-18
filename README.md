@@ -30,10 +30,10 @@
 
 
 
-<h3 align="left">Languages and Tools(I am tinkering with):</h3>
+<h3 align="left">Languages and Tools I'm Tinkering With:</h3>
 <p align="left">
   <a href="https://discord.com/invite/WYXqMxnsqa">
-    <img src="https://skillicons.dev/icons?i=git,go,ps,py,ai,linux,ubuntu,arch,windows" />
+    <img src="https://skillicons.dev/icons?i=git,go,py,ai,ubuntu,arch" />
   </a>
 </p>
 
