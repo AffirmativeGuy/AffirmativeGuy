@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects(very basic) are available at my [Github profile](https://github.com/AffirmativeGuy).
 
-- 📫 Reach me on - **[Discord](https://discord.gg/4pQ5TtRcft)**
+- 📫 Reach me on - **[Discord](https://discord.gg/4pQ5TtRcft)** or **[Email me.](mailto:arnavsin0511@gmail.com)**
 
 - 🌱 I’m currently learning **Python**.
 
