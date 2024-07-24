@@ -44,6 +44,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AffirmativeGuy&theme=blueberry-duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 ![My GitHub stats](https://stats-cop.vercel.app/api?username=AffirmativeGuy&show_icons=true&theme=radical&hide_border=true)
 &nbsp;<div align="center">
+[![Graph(Activity](https://github-readme-activity-graph.vercel.app/graph?username=AffirmativeGuy&theme=dracula)](https://github.com/AffirmativeGuy)
 ![My Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AffirmativeGuy&theme=2077)
 ![Top Languages](https://stats-cop.vercel.app/api/top-langs/?username=AffirmativeGuy&layout=compact&theme=radical&hide_border=true&exclude_repo=stats&custom_title=Most%20Used:)
 </div>
