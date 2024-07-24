@@ -42,10 +42,10 @@
 
 ### :octocat: GitHub Stats
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AffirmativeGuy&theme=blueberry-duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AffirmativeGuy&show_icons=true&theme=radical&hide_border=true)
+![My GitHub stats](https://stats-cop.vercel.app/api?username=AffirmativeGuy&show_icons=true&theme=radical&hide_border=true)
 &nbsp;<div align="center">
 ![My Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AffirmativeGuy&theme=2077)
-![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=AffirmativeGuy&layout=compact&theme=radical&hide_border=true)
+![Top Sprachen](https://stats-cop.vercel.app/api/top-langs/?username=AffirmativeGuy&layout=compact&theme=radical&hide_border=true&exclude_repo=stats)
 </div>
 
 ### 🏆 Github Trophies
