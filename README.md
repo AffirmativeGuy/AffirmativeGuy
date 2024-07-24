@@ -45,7 +45,7 @@
 ![My GitHub stats](https://stats-cop.vercel.app/api?username=AffirmativeGuy&show_icons=true&theme=radical&hide_border=true)
 &nbsp;<div align="center">
 ![My Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AffirmativeGuy&theme=2077)
-![Top Sprachen](https://stats-cop.vercel.app/api/top-langs/?username=AffirmativeGuy&layout=compact&theme=radical&hide_border=true&exclude_repo=stats)
+![Top Languages](https://stats-cop.vercel.app/api/top-langs/?username=AffirmativeGuy&layout=compact&theme=radical&hide_border=true&exclude_repo=stats&custom_title=Most%20Used:)
 </div>
 
 ### 🏆 Github Trophies
