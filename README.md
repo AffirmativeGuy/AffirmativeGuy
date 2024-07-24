@@ -22,7 +22,7 @@
 
 ### 🍜 My Discord Profile
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1064034452893863966)](https://discord.com/users/1064034452893863966)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1064034452893863966?theme=dark&animated=true)](https://discord.com/users/1064034452893863966)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
