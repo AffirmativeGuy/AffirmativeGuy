@@ -1,3 +1,5 @@
+<a><img src="banner.png" alt="My Woahh Banner"></a>
+
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=995&color=FF0000&center=true&multiline=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Arnav+Singh." alt="Typing SVG" /></a></h1>
 
 <h2 align="center">A tech tinkerer, who loves coding and discord.
@@ -59,8 +61,6 @@
 ### ❄️ Quote
 [![Quote](https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&quote=To%20Be%20The%20Best%20You%20Have%20To%20Work%20Hard,%20But%20To%20Be%20The%20Worst%20You%20Don't.&author=AffirmativeGuy)](https://youtu.be/dQw4w9WgXcQ?si=eoehQUYaFQwPM-Rh)
 
-### ⚽ Zaa Banner
-<a><img src="banner.gif" alt="My Woahh Banner"></a>
 
 
 
