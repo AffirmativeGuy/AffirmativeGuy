@@ -18,6 +18,8 @@
 
 - 🌱 I’m currently learning **Python**.
 
+- 📜 I am currently reading **Dune** by **Frank Herbert.**
+
 - 🥋 I'm in love with **Windows** and **Linux**.
 
 ### 🍜 My Discord Profile
