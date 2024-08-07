@@ -50,7 +50,7 @@
 &nbsp;<div align="center">
 [![Graph(Activity](https://github-readme-activity-graph.vercel.app/graph?username=AffirmativeGuy&theme=dracula)](https://github.com/AffirmativeGuy)
 ![My Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AffirmativeGuy&theme=2077)
-![Top Languages](https://stats-cop.vercel.app/api/top-langs/?username=AffirmativeGuy&layout=compact&theme=radical&hide_border=true&exclude_repo=stats&custom_title=Most%20Used:)
+![Top Languages](https://stats-cop.vercel.app/api/top-langs/?username=AffirmativeGuy&layout=compact&theme=radical&hide_border=true&hide=javascript,shell&custom_title=Most%20Used:)
 </div>
 
 ### 🏆 Github Trophies
